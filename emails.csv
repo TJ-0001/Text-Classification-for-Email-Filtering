@@ -1,0 +1,211 @@
+Email_ID,Subject,Body,Category
+1,Sale on Electronics,Get 50% off on all electronics today!,Spam
+2,Meeting Reminder,Don’t forget the team meeting tomorrow at 10 AM.,Important
+3,Win a Free Vacation,Claim your free vacation now! Click here!,Spam
+4,Project Update,The latest project update is available on the intranet.,Important
+5,Discount Offer,Exclusive 30% discount on your next purchase!,Spam
+6,Job Application Follow-Up,We have reviewed your application and will get back to you soon.,Important
+7,Free Gift Card,Win a $100 gift card by participating in our survey!,Spam
+8,Client Feedback Request,Please provide feedback on our recent service.,Important
+9,Special Promotion,Don’t miss out on our special promotion this weekend!,Spam
+10,Your Invoice is Ready,Your invoice for last month is available for download.,Important
+11,Final Notice: Payment Due,This is a final notice regarding your overdue payment.,Spam
+12,Upcoming Webinar,Join our upcoming webinar on data science trends.,Important
+13,Congratulations,You’ve won a prize! Contact us to claim it.,Spam
+14,Annual Report,Please review the annual financial report attached.,Important
+15,Limited Time Offer,Act now to get 40% off on all items!,Spam
+16,Your Application Status,We have received your application and are reviewing it.,Important
+17,Special Sale Event,Join our special sale event and save big!,Spam
+18,Security Alert,We have detected unusual activity on your account.,Important
+19,Reminder: Payment Due,Your payment is due soon. Please make it by the due date.,Spam
+20,Product Launch,We’re excited to announce the launch of our new product!,Important
+21,Important Update on Your Account,We have updated the terms of your account.,Important
+22,Get Rich Quick Scheme,Make money fast with our new investment scheme!,Spam
+23,Meeting Confirmation,Your meeting has been confirmed for next Wednesday.,Important
+24,Exclusive Deals Just for You,Check out these exclusive deals available today!,Spam
+25,Monthly Newsletter,Here is our monthly newsletter with updates and news.,Important
+26,Work from Home Opportunities,Explore work from home job opportunities with us!,Spam
+27,Customer Satisfaction Survey,Please fill out this survey to help us improve our service.,Important
+28,Limited Time Offer on Insurance,Get a 20% discount on insurance plans for a limited time!,Spam
+29,New Feature Release,We’ve released a new feature on our platform.,Important
+30,Get a Free Trial,Sign up today to get a free trial of our new software.,Spam
+31,Project Deadline Reminder,Reminder: The deadline for the project is approaching.,Important
+32,Special Offer on Subscriptions,Enjoy 50% off on all subscriptions this weekend!,Spam
+33,Your Order has Shipped,Your recent order has been shipped and is on its way.,Important
+34,Big Sale on Home Appliances,Don’t miss our big sale on home appliances!,Spam
+35,Quarterly Performance Review,Your quarterly performance review is available.,Important
+36,Win a Free Laptop,Enter our contest to win a free laptop!,Spam
+37,Webinar Registration Confirmation,Your registration for the webinar has been confirmed.,Important
+38,Free Sample Offer,Claim your free sample of our new product!,Spam
+39,Appointment Reminder,Reminder: Your appointment is scheduled for tomorrow.,Important
+40,Exclusive Event Invitation,You are invited to an exclusive event next week!,Spam
+41,Your Credit Card Statement,Your latest credit card statement is now available.,Important
+42,Job Opening: Marketing Manager,We are hiring a Marketing Manager. Apply now!,Spam
+43,Company Policy Update,Review the updated company policies on the intranet.,Important
+44,Special Promo Code for You,Use this promo code for an extra 15% off your next order!,Spam
+45,Upcoming Training Session,Join us for a training session on professional development.,Important
+46,Seasonal Discount on Clothing,Enjoy seasonal discounts on all clothing items!,Spam
+47,Feedback on Recent Purchase,Please provide feedback on your recent purchase.,Important
+48,Flash Sale Today Only,Today only: Flash sale with up to 70% off!,Spam
+49,Your Subscription Renewal Reminder,Your subscription is up for renewal next month.,Important
+50,Free Webinar on Investment Tips,Register for our free webinar on investment strategies.,Spam
+51,Product Review Request,We’d appreciate your review of our latest product.,Important
+52,Limited-Time Flash Sale,Our flash sale is ending soon. Shop now!,Spam
+53,Your Recent Purchase Invoice,Download your invoice for the recent purchase.,Important
+54,Exclusive VIP Offer,As a VIP customer, enjoy this exclusive offer!,Spam
+55,Team Meeting Agenda,The agenda for tomorrow’s team meeting is attached.,Important
+56,Special Discounts for Subscribers,Check out these special discounts for our subscribers.,Spam
+57,Account Security Alert,We detected a possible security issue with your account.,Important
+58,Win a Free Vacation Package,Enter now for a chance to win a free vacation package!,Spam
+59,Monthly Account Summary,Your monthly account summary is available.,Important
+60,New Product Launch Announcement,We are excited to announce our new product launch!,Spam
+51,Product Review Request,We’d appreciate your review of our latest product.,Important
+52,Limited-Time Flash Sale,Our flash sale is ending soon. Shop now!,Spam
+53,Your Recent Purchase Invoice,Download your invoice for the recent purchase.,Important
+54,Exclusive VIP Offer,As a VIP customer, enjoy this exclusive offer!,Spam
+55,Team Meeting Agenda,The agenda for tomorrow’s team meeting is attached.,Important
+56,Special Discounts for Subscribers,Check out these special discounts for our subscribers.,Spam
+57,Account Security Alert,We detected a possible security issue with your account.,Important
+58,Win a Free Vacation Package,Enter now for a chance to win a free vacation package!,Spam
+59,Monthly Account Summary,Your monthly account summary is available.,Important
+60,New Product Launch Announcement,We are excited to announce our new product launch!,Spam
+61,Important Update on Your Subscription,We’ve updated the terms of your subscription.,Important
+62,Free Trial Offer,Start your free trial today and experience our premium service.,Spam
+63,Your Recent Support Ticket,Your support ticket has been resolved. Thank you for your patience.,Important
+64,Exclusive Online Sale,Shop our exclusive online sale and save up to 50%!,Spam
+65,Upcoming Project Meeting,Please join the project meeting scheduled for next week.,Important
+66,Special Discount for New Users,Get 30% off on your first purchase with us!,Spam
+67,Annual Survey Invitation,We invite you to participate in our annual survey.,Important
+68,Limited Time Promotional Offer,Act now to take advantage of our limited-time promotional offer!,Spam
+69,Client Follow-Up,Following up on our recent client meeting. Please review the attached document.,Important
+70,Big Sale on Electronics,Check out our big sale on all electronics this weekend!,Spam
+71,Your Account Update,Your account has been updated successfully.,Important
+72,Free Gift with Purchase,Get a free gift with your purchase today!,Spam
+73,Monthly Newsletter Subscription,Thank you for subscribing to our monthly newsletter.,Important
+74,Special Offer: Buy One Get One Free,Take advantage of our buy one, get one free offer!,Spam
+75,Job Application Status Update,We have reviewed your application and will contact you soon.,Important
+76,Exclusive Offer for Loyal Customers,Enjoy this special offer as a thank you for being a loyal customer!,Spam
+77,Upcoming Webinar on Data Science,Join our upcoming webinar on the latest trends in data science.,Important
+78,Win a Free Vacation Package,Enter for a chance to win a free vacation package!,Spam
+79,Reminder: Payment Due Soon,This is a reminder that your payment is due soon.,Important
+80,Special Discount on All Items,Get a special discount on all items in our store today!,Spam
+81,Your New Account Information,Here are the details for your new account.,Important
+82,Limited-Time Offer on Software,Purchase our software now and save 25%!,Spam
+83,Your Recent Purchase Confirmation,Thank you for your recent purchase. Here is the confirmation.,Important
+84,Exclusive Online Event Invitation,You are invited to an exclusive online event next week!,Spam
+85,Account Security Update,We have updated the security settings for your account.,Important
+86,Special Promotion on Apparel,Save up to 40% on all apparel items during our special promotion!,Spam
+87,Client Feedback Request,We would appreciate your feedback on our recent service.,Important
+88,Flash Sale on Electronics,Don’t miss our flash sale on electronics today only!,Spam
+89,Your Subscription Confirmation,Your subscription has been confirmed. Thank you!,Important
+90,New Product Offer,Discover our new product and enjoy a special introductory offer!,Spam
+91,Project Status Update,Here is the latest update on the project status.,Important
+92,Limited-Time Offer on Membership,Join our membership program now and receive a discount!,Spam
+93,Your Order is on the Way,Your order is on its way and will arrive soon.,Important
+94,Special Discount for Newsletter Subscribers,Check out the special discount just for our newsletter subscribers!,Spam
+95,Appointment Confirmation,Your appointment has been confirmed for next Tuesday.,Important
+96,Exclusive Sale Event,Join our exclusive sale event and save up to 60%!,Spam
+97,Account Activity Alert,We have detected unusual activity on your account.,Important
+98,Free Sample of New Product,Get a free sample of our new product by signing up today!,Spam
+99,Monthly Summary Report,Your monthly summary report is now available.,Important
+100,Flash Sale Ends Soon,Our flash sale ends soon. Shop now before it’s too late!,Spam
+101,Your Purchase Confirmation,Thank you for your recent purchase. Here is your confirmation.,Important
+102,Exclusive Member Discounts,As a valued member, enjoy these exclusive discounts!,Spam
+103,Upcoming Workshop Reminder,Reminder: The workshop is scheduled for this Friday.,Important
+104,Flash Sale Ends Today,Last chance to take advantage of our flash sale!,Spam
+105,New Feature Announcement,We’ve just released a new feature on our platform.,Important
+106,Special Offer: 20% Off,Get 20% off on your next purchase with this code.,Spam
+107,Job Interview Scheduled,Your job interview has been scheduled for next week.,Important
+108,Limited Time Only: Free Shipping,Enjoy free shipping on all orders placed today!,Spam
+109,Monthly Report Ready,The monthly report is ready for your review.,Important
+110,Exclusive Online Deal,Shop now and save with our exclusive online deal!,Spam
+111,Your Account Has Been Updated,Your account information has been updated successfully.,Important
+112,Win a Gift Card,Enter our contest for a chance to win a $50 gift card!,Spam
+113,Training Session Confirmation,Your registration for the training session is confirmed.,Important
+114,Seasonal Sale Alert,Don’t miss our seasonal sale with up to 50% off!,Spam
+115,Client Meeting Follow-Up,Following up on our client meeting. Please see the attached notes.,Important
+116,Special Promotion: Buy 1 Get 1 Free,Buy one item and get another free for a limited time!,Spam
+117,Your Subscription Renewal Reminder,Your subscription is up for renewal next month.,Important
+118,Exclusive Invitation to VIP Event,You’re invited to our exclusive VIP event next week!,Spam
+119,Your Invoice is Available,Your invoice for the recent transaction is available for download.,Important
+120,Limited Time Discount,Get a 15% discount on all purchases made today!,Spam
+121,New Product Launch,We are excited to announce the launch of our new product.,Important
+122,Special Offer for Returning Customers,Enjoy a special offer as a thank you for returning to us!,Spam
+123,Project Update Notification,Here is the latest update on the ongoing project.,Important
+124,Free Trial Extension,Your free trial has been extended for another 30 days.,Spam
+125,Upcoming Event Reminder,Reminder: The upcoming event is scheduled for next Thursday.,Important
+126,Exclusive Discount on Membership,Get a discount on membership if you join this month!,Spam
+127,Your Order Has Shipped,Your order has been shipped and is on its way.,Important
+128,Seasonal Promotion,Enjoy our seasonal promotion with discounts on all items!,Spam
+129,Feedback Request,Please provide your feedback on our recent service.,Important
+130,Special Sale: 40% Off,Take advantage of our special sale with 40% off on select items!,Spam
+131,Your Support Ticket Update,Your support ticket has been updated. Please check the details.,Important
+132,Flash Deal Ending Soon,Our flash deal ends soon. Shop now to save big!,Spam
+133,Monthly Summary Report,The monthly summary report is ready for your review.,Important
+134,Limited-Time Offer: Free Gift,Receive a free gift with your purchase today!,Spam
+135,Meeting Confirmation,Your meeting has been confirmed for tomorrow at 2 PM.,Important
+136,Exclusive Deal for Subscribers,Check out this exclusive deal available only for subscribers!,Spam
+137,Your Payment Confirmation,Your recent payment has been successfully processed.,Important
+138,Special Promotion: 30% Off,Enjoy a 30% discount on your next purchase with this promo code.,Spam
+139,Job Application Update,We have received your job application and will review it soon.,Important
+140,Free Sample Available,Claim your free sample by signing up on our website.,Spam
+141,Client Feedback Needed,Please provide feedback on the recent client project.,Important
+142,Limited-Time Flash Sale,Don’t miss our limited-time flash sale with discounts on all items!,Spam
+143,Your Account Activity Alert,We noticed unusual activity on your account. Please review.,Important
+144,Special Offer on New Arrivals,Get a discount on our new arrivals for a limited time!,Spam
+145,Upcoming Workshop Details,Here are the details for the upcoming workshop.,Important
+146,Exclusive Discount for Members,Enjoy an exclusive discount available only for members!,Spam
+147,Order Confirmation,Thank you for your order. Your confirmation is attached.,Important
+148,Seasonal Sale Announcement,Our seasonal sale starts today with up to 50% off!,Spam
+149,Feedback Survey Invitation,We invite you to take part in our feedback survey.,Important
+150,Flash Sale Today,Shop our flash sale today and save up to 60%!,Spam
+151,Your Subscription Status,Your subscription status has been updated.,Important
+152,Special Offer for New Customers,New customers receive a special offer on their first purchase!,Spam
+153,Project Deadline Reminder,Reminder: The project deadline is approaching.,Important
+154,Limited-Time Discount Code,Use this discount code for a limited-time offer.,Spam
+155,Upcoming Event Confirmation,Your registration for the upcoming event is confirmed.,Important
+156,Exclusive Online Discount,Enjoy an exclusive discount available only online!,Spam
+157,Your Invoice Update,Your invoice has been updated. Please review the changes.,Important
+158,Special Sale on Electronics,Save on electronics during our special sale event!,Spam
+159,Client Meeting Reminder,Reminder: You have a client meeting scheduled for tomorrow.,Important
+160,Seasonal Promotion Announcement,Our seasonal promotion is here with great discounts!,Spam
+161,Your Recent Order Confirmation,Here is the confirmation for your recent order.,Important
+162,Free Gift with Subscription,Subscribe now and receive a free gift!,Spam
+163,Job Interview Confirmation,Your job interview has been confirmed for next week.,Important
+164,Exclusive Offer for Returning Customers,Returning customers get an exclusive offer just for you!,Spam
+165,Monthly Performance Review,Your monthly performance review is now available.,Important
+166,Limited-Time Flash Deal,Our flash deal ends soon. Don’t miss out!,Spam
+167,New Product Offer,Check out our new product and enjoy a special offer!,Important
+168,Special Discount for Subscribers,Subscribers receive a special discount on all orders!,Spam
+169,Your Order Status,Your order status has been updated. Check your account for details.,Important
+170,Seasonal Sale Alert,Our seasonal sale is live with huge discounts!,Spam
+171,Client Feedback Request,We need your feedback on our recent client project.,Important
+172,Flash Sale Ending Soon,Our flash sale is ending soon. Shop now to save!,Spam
+173,Subscription Renewal Reminder,Reminder: Your subscription will renew next month.,Important
+174,Exclusive VIP Sale,Join our exclusive VIP sale event and save big!,Spam
+175,Your Purchase Receipt,Here is the receipt for your recent purchase.,Important
+176,Special Offer: Buy 2 Get 1 Free,Buy two items and get one free for a limited time!,Spam
+177,Upcoming Workshop Reminder,Reminder: The workshop is happening this Saturday.,Important
+178,Limited-Time Online Offer,Take advantage of our limited-time online offer!,Spam
+179,Monthly Account Update,Your monthly account update is ready for review.,Important
+180,Special Promotion for Subscribers,Subscribers get an exclusive promotion on all orders!,Spam
+181,Your Invoice is Ready,Your invoice is available for download.,Important
+182,Exclusive Online Event,You’re invited to our exclusive online event next week!,Spam
+183,Client Meeting Follow-Up,Following up on our recent client meeting. Please review.,Important
+184,Special Discount for Members,Members get a special discount on their next purchase!,Spam
+185,Order Confirmation,Your order has been confirmed. Thank you for shopping with us.,Important
+186,Seasonal Sale Notification,Our seasonal sale starts now with great discounts!,Spam
+187,Feedback Request,We value your feedback on our recent service.,Important
+188,Flash Sale Today,Shop our flash sale today and get up to 70% off!,Spam
+189,Your Subscription Status Update,Your subscription status has been updated.,Important
+190,Exclusive Offer for New Subscribers,New subscribers receive an exclusive offer on their first order!,Spam
+191,Job Application Status,We have reviewed your application and will contact you soon.,Important
+192,Free Sample Offer,Get a free sample by signing up on our website.,Spam
+193,Client Feedback Needed,Please provide your feedback on our recent service.,Important
+194,Limited-Time Flash Sale,Don’t miss out on our limited-time flash sale!,Spam
+195,Your Account Activity Report,Your account activity report is available for review.,Important
+196,Special Discount on New Products,Get a discount on our new products for a limited time!,Spam
+197,Upcoming Workshop Details,Details for the upcoming workshop are now available.,Important
+198,Exclusive Member Sale,Enjoy an exclusive sale available only to members!,Spam
+199,Order Confirmation,Your order confirmation is attached. Thank you!,Important
+200,Seasonal Sale Announcement,Our seasonal sale starts today with up to 50% off!,Spam
